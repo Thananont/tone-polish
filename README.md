@@ -115,3 +115,7 @@ Please generate the code in a monolithic repo structure:
 
 Please generate the file structure and the necessary code files to get this running.
 ```
+
+## Time Log
+
+The project took around 75 minutes in total: 20m setup and prompting, 40m debugging and adding missing requirements, 15m creating repo and README file
