@@ -38,6 +38,13 @@ npm run dev
 
 The frontend will start on `http://localhost:5173`
 
+### Run Frontend Test
+
+```bash
+cd frontend
+npm test
+```
+
 ## API Endpoint
 
 ### POST `/api/polish`
