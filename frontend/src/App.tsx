@@ -105,7 +105,7 @@ function App() {
             disabled={isLoading || !originalText.trim()}
             className="btn"
           >
-            {isLoading ? "Polishing..." : "Polish"}
+            {isLoading ? "Refining..." : "Refine"}
           </button>
 
           {error && <div className="error-message">{error}</div>}
