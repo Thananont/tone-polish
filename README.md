@@ -10,7 +10,7 @@ tone-polish/
 └── frontend/         # React application
 ```
 
-## Getting Started
+## Setup Guide
 
 ### Prerequisites
 
