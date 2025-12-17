@@ -1,0 +1,15 @@
+package com.tonepolish.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class PolishingRequest {
+    private String originalText;
+    private String tone;
+}
+
+
